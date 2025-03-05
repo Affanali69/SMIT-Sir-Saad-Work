@@ -24,3 +24,8 @@ function calculate() {
     alert("Result: " + result);
 
 }
+
+function foo() {
+    var getInp = document.getElementById("inp");
+    console.log(getInp.value);
+}
