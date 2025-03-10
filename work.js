@@ -51,3 +51,18 @@
 //     document.write(final);
 // }
 // sqr();
+
+// function factorial(n) {
+//     if (n < 0) return "Factorial for negative numbers is not defined";
+//     if (n === 0 || n === 1) return 1;
+//     return n * factorial(n - 1);
+// }
+// console.log(factorial(10));
+
+// function counting (){
+//     var usernum1 = +prompt('enter the start counting')
+//     var usernum2= + prompt('enter your end counting')
+//     for (var i =usernum1; i <=usernum2; i++ ){
+//         document.writeln(i)
+//     }
+// }
